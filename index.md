@@ -16,10 +16,11 @@ My name is Stanislau Troshka and I am an engineer. I have been working as a cons
 - C++
 -	Bootstrap
 -	Entity Framework 
+
 ## PERSONAL INFORMATION
 
-Marriage Status: Married.
-Hobbies and Interests: chess, basketball, reading.
+- Marriage Status: Married.
+- Hobbies and Interests: chess, basketball, reading.
 
 
 
