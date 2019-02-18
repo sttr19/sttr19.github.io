@@ -26,7 +26,7 @@ My name is Stanislau Troshka and I am an engineer. I have been working as a cons
 
 ### My Tasks:
 1. <https://github.com/sttr19/PadawansTask1.git>
-2. https://github.com/sttr19/PadawansTask2.git
-3. https://github.com/sttr19/PadawansTask3.git
-4. https://github.com/sttr19/PadawansTask4.git
-5. https://github.com/sttr19/PadawansTask5.git
+2. <https://github.com/sttr19/PadawansTask2.git>
+3. <https://github.com/sttr19/PadawansTask3.git>
+4. <https://github.com/sttr19/PadawansTask4.git>
+5. <https://github.com/sttr19/PadawansTask5.git>
