@@ -4,7 +4,7 @@ My name is Stanislau Troshka and I am an engineer. I have been working as a cons
 
 ## EDUCATION
 
--	2008-2013 Bachelor’s Degree in Information Systems Software, Belarusian State University of Informatics and Radioelectronics.
+-	2016-2018 Bachelor’s Degree in Information Systems Software, Belarusian State University of Informatics and Radioelectronics.
 -	2000-2005 Engineer's degree in Industrial and Civil Construction, Belorusian State University of Transport.
 
 ## BASIC SKILLS:
