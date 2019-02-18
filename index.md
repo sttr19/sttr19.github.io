@@ -1,8 +1,6 @@
-## Трошко
+## ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/sttr19/sttr19.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Stanislau Troshka and I am an engineer. I have been working as a construction engineer for more than 10 years. But life is changing so 3 years ago I decided to change my professional focus and become a programming engineer. To make this transition happen, I have got a second high degree in Belarussian State University of Informatics and Radioelectronics. During my study, I got the basic skills of programming. Now I would like to practice and improve them and to develop as a specialist in this direction. I may describe myself as a responsible, focused on results person and a good team player. 
 
 ### Markdown
 
