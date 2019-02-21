@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-My name is Stanislau Troshka and I am an engineer. I have been working as a construction engineer for more than 10 years. But life is changing so 3 years ago I decided to change my professional focus and become a programming engineer. To make this transition happen, I have got a second high degree in Belarussian State University of Informatics and Radioelectronics. During my study, I got the basic skills of programming.Theme of my graduation project was 'Web application for ads of construction services'. I developed this app using С# and ASP.NET MVC5 Framework whith DB. Now I would like to practice and improve them and to develop as a specialist in this direction. I may describe myself as a responsible, focused on results person and a good team player. 
+My name is Stanislau Troshka and I am an engineer. I have been working as a construction engineer for more than 10 years. But life is changing so 3 years ago I decided to change my professional focus and become a programming engineer. To make this transition happen, I have got a second high degree in Belarussian State University of Informatics and Radioelectronics. During my study, I got the basic skills of programming.The theme of my graduation project was 'Web application for ads of construction services'. I developed this app using С# and ASP.NET MVC5 Framework whith DB. Now I would like to practice and improve them and to develop as a specialist in this direction. I may describe myself as a responsible, focused on results person and a good team player. 
 
 ## EDUCATION
 
