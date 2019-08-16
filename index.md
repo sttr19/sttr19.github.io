@@ -32,3 +32,5 @@ My name is Stanislau Troshka and I am an engineer. I have been working as a cons
 5. <https://github.com/sttr19/PadawansTask5.git>
 6. <https://github.com/sttr19/PadawansTask6.git>
 7. <https://github.com/sttr19/PadawansTask7.git>
+8. <https://github.com/sttr19/love-triangle.git>
+9. <https://github.com/sttr19/warmup.git>
